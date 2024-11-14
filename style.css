@@ -1,7 +1,24 @@
+body{
+    color:rgb(158, 74, 74);
+    background: burlywood;
+    margin: 0px;
+    font-family: "Itim", cursive;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: solid 3px rgb(112, 25, 25);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(151, 15, 15)
+}
 .chamada{
     background-color: rgb(172, 72, 72);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
+}
+
+.chamada-texto{
+    margin-right;: 5%
 }
