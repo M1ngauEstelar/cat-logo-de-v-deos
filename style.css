@@ -25,4 +25,18 @@ header{
 h1{
     front-size: 34px;
 }
-.categoria
+.categoria{
+    background: rgb(32, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categoria-videos img{
+    opacity: 0.5;
+    height: 200px;
+}
